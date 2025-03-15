@@ -57,5 +57,3 @@ This approach is made possible by the excellent aider application. Thank you to 
 ## Contribute and Improve:
 
 This is an initial attempt at formalizing "Precision Prompting." Contributions, suggestions, and improvements to the Project Context files, the .aiderCode.md terms of reference, and the overall approach are highly welcome! Please feel free to open issues or pull requests to help refine this methodology.
-
-This readme.md provides a good overview of "Precision Prompting," explains how to use it with Aider, and gives credit to the Aider team. You can adjust the paths and descriptions as needed for your specific repository.
