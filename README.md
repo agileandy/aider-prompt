@@ -18,7 +18,7 @@ Instead of relying on "vibe coding," Precision Prompting leverages a set of well
 This repository includes a template set of Project Context files:
 
 *   **`.aiderCode.md` (Terms of Reference):**  Defines the system prompt and instructions for the Aider agent.  This is akin to giving the agent its "role" and expected behavior.
-*   **`.aiderContext.md'  (Aider command file):** A command file for aider to add the create/update the project context files into aider 'working memory'
+*   **`.aiderContext.md`  (Aider command file):** A command file for aider to add the create/update the project context files into aider 'working memory'
 *   **`projectOverview.md` :**  Outlines the project's purpose, goals, user needs, and high-level requirements. 
 *   **`systemDesign.md` :** Describes the system's architecture, design patterns, key technical decisions, and high-level technology choices. 
 *   **`techEnvironment.md` :**  Focuses on the development environment, dependencies, setup, and troubleshooting. 
