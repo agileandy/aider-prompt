@@ -2,7 +2,7 @@
 
 This repository provides a structured approach to using the [aider](https://github.com/paul-gauthier/aider) AI coding assistant, called **Precision Prompting**.
 
-Instead of relying on "vibe coding," Precision Prompting leverages a set of well-defined **Project Context files** to guide the Aider agent. This approach is inspired by established software development practices and aims to provide a more predictable, controlled, and efficient AI-assisted coding experience.
+Instead of relying on "vibe coding," Precision Prompting leverages a set of well-defined **Project Context files** to guide the Aider agent. This approach is inspired by established software development practices, as well the awesome [IndyDevDan](https://www.youtube.com/@indydevdan) Youtube channel. It aims to provide a more predictable, controlled, and efficient AI-assisted coding experience.
 
 ## **Key Principles of Precision Prompting:**
 
