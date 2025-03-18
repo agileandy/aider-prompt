@@ -55,7 +55,7 @@ $ aider <your existing aider options> --read '$HOME/path/to/.aiderCode.md' --loa
 **Improved bootstapping**: 'Always up to date' project context ensures mutli-session development can be seemlessly resumed, with no loss of context.  This can even enable multi agent sessions where every agent is aligned on a common goals.
 
 ## Use with other tools:
-While I built this with use in Aider in mind, I have tried out the approach with Cursor, Cline and Roo.  Each one of these tools was able to seemlessly resume an edit session, even those undertaken by a different tool.  I threfore believe The framework therefore provides a flexible model against which all coding agents can co-exist.
+While I built this with use in Aider in mind, I have tried out the approach with Cursor, Cline and Roo.  Each one of these tools was able to seemlessly resume an edit session, even those undertaken by a different tool.  I therefore believe The framework provides a flexible model against which all coding agents can co-exist.
 
 ## Thanks to the Aider Team:
 
