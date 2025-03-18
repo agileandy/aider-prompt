@@ -52,7 +52,10 @@ aider aider <your existing aider options>: This is your standard Aider command, 
 
 **Reduced "Vibe Coding"**: Shifts the focus from ad-hoc prompting to a more planned and intentional approach to AI-assisted development.
 
-**Improved bootstapping**: 'Always up to date' project context ensures mutli-session development can be seemlessly resumed, with no loss of context.
+**Improved bootstapping**: 'Always up to date' project context ensures mutli-session development can be seemlessly resumed, with no loss of context.  This can even enable multi agent sessions where every agent is aligned on a common goals.
+
+## Use with other tools:
+While I built this with use in Aider in mind, I have tried out the approach with Cursor, Cline and Roo.  Each one of these tools was able to seemlessly resume an edit session, even those undertaken by a different tool.  I threfore believe The framework therefore provides a flexible model against which all coding agents can co-exist.
 
 ## Thanks to the Aider Team:
 
@@ -60,4 +63,6 @@ This approach is made possible by the excellent aider application. Thank you to 
 
 ## Contribute and Improve:
 
-This is an initial attempt at formalizing "Precision Prompting." Contributions, suggestions, and improvements to the Project Context files, the .aiderCode.md terms of reference, and the overall approach are highly welcome! Please feel free to open issues or pull requests to help refine this methodology.
+This is an initial attempt at formalizing "Precision Prompting". Contributions, suggestions, and improvements to the Project Context files, the .aiderCode.md terms of reference, and the overall approach are highly welcome! Please feel free to open issues or pull requests to help refine this methodology.
+
+
