@@ -37,9 +37,9 @@ $ aider <your existing aider options> --read '$HOME/path/to/.aiderCode.md' --loa
 
 ### Explanation of Command Options:
 
-aider aider <your existing aider options>: This is your standard Aider command, including any model selections, project directory specifications, etc.
---read '$HOME/path/to/.aiderCode.md': This tells Aider to read the .aiderCode.md file and use it as part of the initial prompt. This file contains the terms of reference for the agent.
---load '$HOME/path/to/.aiderContext.md': This tells Aider to load the files listed in .aiderContext.md into the context.
+* aider <your existing aider options>: This is your standard Aider command, including any model selections, project directory specifications, etc.
+* --read '$HOME/path/to/.aiderCode.md': This tells Aider to read the .aiderCode.md file and use it as part of the initial prompt. This file contains the terms of reference for the agent.
+* --load '$HOME/path/to/.aiderContext.md': This tells Aider to load the files listed in .aiderContext.md into the context.
 
 ## Benefits of Precision Prompting:
 **Improved Consistency**: The AI agent operates with a clear understanding of project goals, architecture, and technical constraints.
