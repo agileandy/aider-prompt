@@ -65,4 +65,9 @@ This approach is made possible by the excellent aider application. Thank you to 
 
 This is an initial attempt at formalizing "Precision Prompting". Contributions, suggestions, and improvements to the Project Context files, the .aiderCode.md terms of reference, and the overall approach are highly welcome! Please feel free to open issues or pull requests to help refine this methodology.
 
+--------
+
+# RooCode
+If you are interested in Agentic Coding, check out my [RooCode custom modes](https://github.com/agileandy/roo-code-modes/)
+
 
